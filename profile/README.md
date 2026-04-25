@@ -40,8 +40,21 @@ The dashboard we use to manage the tournaments, matches and all modification we 
 
 ## 🚀 Getting Started & Contributing
 
+### 🤖 AI Contribution
+We have very strict rules about AI Usage.
 
-### Developers
+AI is a tool to help developers, graphist and all sorts of experts to do their job, not to replace them.
+
+You're a developer and you're using a bit of AI to help you? Go on!
+
+You're a graphist and you're using a bit of AI to help? Go on!
+
+You don't know anything about code and you're using AI to do stuff? Not here.
+
+
+Yeah we could have better UI/UX, a good logo, more features by saying 'AI do this', but we don't, a lot of very talented people are losing their job because of this. I can't stop it, but i can at least tell the people doing it : Fuck you.
+
+### 👩‍💻 Developers
 Since each part of the GC Stats ecosystem uses different technologies, **installation guides and contribution rules are handled on a per-repository basis.**
 
 To get started:
