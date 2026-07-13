@@ -62,6 +62,9 @@ To get started:
 2. Follow the local environment setup in its respective `README.md`.
 3. Check the `CONTRIBUTING.md` file within that repo for specific coding standards.
 
+### 🌐 Translation
+You can help us translate our website in more language here : https://translate.gc-stats.app/
+
 ### Others
 If you want to contribute to the project in any other ways, we will be happy to discuss about it on our Discord
 
