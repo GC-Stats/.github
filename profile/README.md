@@ -25,12 +25,15 @@ The GC Stats ecosystem is composed of several specialized units:
 ### 💻 [Website](https://github.com/GC-Stats/Website)
 Our main website. A Laravel-powered project to see tournaments, players, teams, matches, everything that we want to share
 
-### 🤖 [DiscordBot](https://github.com/your-org/discord-bot)
+### 🤖 [DiscordBot](https://github.com/GC-Stats/DiscordBot)
 A simple but effective Discord Bot, to simplify Players & Teams profile edition
 Instead of a request where we have to copy every info, and where we might make mistake, the user just need to ask to change a specific information, and we can either Accept/Open a ticket or Deny
 
-### 🔌 [API](https://github.com/your-org/api)
+### 🔌 [API](https://github.com/GC-Stats/API)
 A fairly simple API to give access to our data
+
+### 💾 [OpenData](https://github.com/GC-Stats/OpenData)
+A simple website, used to browse through our data?
 
 ### 🔒 Dashboard (Internal)
 The dashboard we use to manage the tournaments, matches and all modification we need to make
