@@ -35,6 +35,9 @@ A fairly simple API to give access to our data
 ### 💾 [OpenData](https://github.com/GC-Stats/OpenData)
 A simple website, used to browse through our data?
 
+### 🔌 [RiotRelay](https://github.com/GC-Stats/RiotRelay)
+A simple micro-service used to cache Riot Match API Response
+
 ### 🔒 Dashboard (Internal)
 The dashboard we use to manage the tournaments, matches and all modification we need to make
 > **Note:** This repository is **Closed Source**, we considered that it's not that useful to open source it, it's a fairly simple system, and being open source can represent some Security risk
