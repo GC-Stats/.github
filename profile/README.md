@@ -2,6 +2,12 @@
 
 > Centralizing the Game Changers circuit where others leave gaps.
 
+## READ ME
+
+GC Stats is now part of Osthelia, this organization is an archive of our old codebase
+
+Go check our new Organsiation : [https://github.com/Osthelia](https://github.com/Osthelia) or Website : [https://osthelia.org/](https://osthelia.org/)
+
 
 ## 📋 About the Project
 
